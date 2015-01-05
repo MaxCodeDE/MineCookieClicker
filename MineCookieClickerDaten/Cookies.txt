@@ -1,0 +1,3 @@
+#In dieser Datei werden deine Cookies gespeichert
+#Sat Jan 03 23:05:52 CET 2015
+Cookies=2073
