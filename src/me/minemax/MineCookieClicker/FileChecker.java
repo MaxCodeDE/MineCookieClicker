@@ -55,7 +55,7 @@ public class FileChecker {
 
 		try {
 			
-			URL link = new URL("http://max-bremer.info/MineCookieClicker/" + bild);
+			URL link = new URL("http://server.max-bremer.info:8083/MineCookieClicker/" + bild);
 			URLConnection url = link.openConnection();
 			InputStream is = url.getInputStream();
 			
